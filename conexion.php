@@ -1,2 +1,2 @@
 <?php
-$mysqli= new mysqli("localhost","root","","arduino");
+$mysqli= new mysqli("localhost","root","","sensores");

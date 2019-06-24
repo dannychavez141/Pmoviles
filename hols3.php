@@ -74,7 +74,7 @@ $jsonTable = json_encode($table);
  <body>
   <div class="page-wrapper">
    <br />
-   <h2 align="center">GRAFICO DE SENSOR DE AMONIACO</h2>
+   <h2 align="center">GRAFICO DE SENSOR DE METANO</h2>
    <div id="line_chart" style="width: 100%; height: 500px"></div>
   </div>
      </div>
